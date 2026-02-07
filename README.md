@@ -3,6 +3,9 @@ Recreated a desktop-first documentation-style website inspired by the Mintlify w
 
 ### Live link: https://mintlify-ui-clone-phi.vercel.app/
 
+### Screenshots:
+
+![Full screen shot](/assets/mintlify-ui-clone-full-ss.png)
 ## Sections to Build
 
 1. **Top Navigation Bar**
